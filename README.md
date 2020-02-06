@@ -4,6 +4,7 @@
 
 You are a **hacker**
 Your task is to use your handy micro-bot to navigate the terminal.
+
 Once your microbot reaches the gold platform, you win the level!
 
 Press **R to restart** the level.
